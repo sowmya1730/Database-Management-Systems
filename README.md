@@ -4,7 +4,7 @@ Project:
 Restructure a flattened and/or denormalized dataset so it can be loaded into a SQL or Graph database. Identify and demonstrate a form of analysis that is made easier by restructuring the data.
 
 Dataset:
-Yelp Dataset
+Yelp Dataset(https://www.kaggle.com/yelp-dataset/yelp-dataset)
 
 For this project, I'll utilize a combination of Python for data preprocessing and transformation, and DBeaver for database design, management, and analysis. Python offers powerful libraries for data manipulation and preprocessing, while DBeaver provides a user-friendly interface for working with SQL databases. The primary data source is the Yelp Dataset, which contains information about businesses, users, and reviews. This dataset provides a rich source of information for analysis, including sentiment analysis, user behavior analysis, and more. I'll initially work with a flattened or denormalized version of this dataset, and the goal is to restructure it into a normalized form suitable for loading into a SQL database.
 
