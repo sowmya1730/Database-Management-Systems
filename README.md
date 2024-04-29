@@ -8,6 +8,6 @@ Yelp Dataset(https://www.kaggle.com/yelp-dataset/yelp-dataset)
 
 Steps to be Followed:
 1. Download the Yelp Dataset
-2. Extract and Rename the yelp_academic_dataset_business.json file to business.json
-3. Open Google Colab/Jupyter notebook and upload the business.json file from local
-4. Run the final_project(SQLite,_Python) file to upload, restructure, load into SQLite and analyze
+2. Extract the zip file and Rename the yelp_academic_dataset_business.json file to business.json
+3. Open Jupyter notebook/Google Colab and upload the business.json file from local
+4. Run the final_project(SQLite,_Python) file to upload, restructure, load into SQLite and analyze the data
