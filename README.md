@@ -8,12 +8,14 @@ Yelp Dataset(https://www.kaggle.com/yelp-dataset/yelp-dataset)
 
 This Github Repo consists of:
 1. Initial_Code.ipynb: This file consists of the initial code that should be submitted for Deliverable 2 with basic uploading the data, Data Cleaning, etc
-2. Final_Project(SQLite,_Python): This file consists of the whole code which includes:
+2. Final_Code.ipynb: This file consists of the whole code which includes:
    - Uploading the data
    - Converting to CSV File
    - Restructuring the data by normalization
    - Loading the restructured data to SQL Database by creating tables
    - Performing analysis of the restructured data
+3. DBMS_Presentation: This contains the ppt of the project
+4. Basic_Analysis_Before_Restructuring_the_Data.ipynb: This consists of the analysis performed before restructuring the data. It basically includes SQL queries, data visualizations, etc
 
 Steps to be Followed:
 1. Please download the file named 'business.json' from https://drive.google.com/drive/folders/1XjPGoSt_UFcMJ_gZM3syTZj-w622K6NB?usp=sharing
