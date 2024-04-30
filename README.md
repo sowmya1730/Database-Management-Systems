@@ -16,7 +16,7 @@ This Github Repo consists of:
    - Performing analysis of the restructured data
 
 Steps to be Followed:
-1. Please download the file named 'business.json'
+1. Please download the file named 'business.json' from https://drive.google.com/drive/folders/1XjPGoSt_UFcMJ_gZM3syTZj-w622K6NB?usp=sharing
 2. Open Jupyter notebook/Google Colab and upload the business.json file from local
 3. Run the final_project(SQLite,_Python) file to upload, restructure, load into SQLite and analyze the data
 
